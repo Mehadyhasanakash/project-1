@@ -53,4 +53,37 @@ h1{
     display: inline;
    
 }
+.container{
+    display: flex;
+    text-align: left;
+    margin-bottom: 200px;
+    width: auto;
+    justify-content: center;
+}
+
+.container .M-V-G{
+    background: rgb(253, 245, 213);
+    margin: 20px;
+    width: 400px;
+    padding: 80px 40px;
+    position: relative;
+    border-radius: 10px;
+
+
+}
+.container .M-V-G h2{
+    color: crimson;
+    font-size: 40px;
+}
+.pragraph{
+    margin-top: 10%;
+    color: rgb(81, 81, 82);
+    font-size: 20px;
+    text-align: justify;
+}
+.illustrator img{
+    width: 200px;
+}
+
+
 
