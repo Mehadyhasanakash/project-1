@@ -101,4 +101,16 @@ h1{
 }
 .code img {
     width: 100%;
+
+}
+.link2{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(231, 102, 102) orange);
+    color: white;
+}
+
+/* 5th section */
+.cricket{
+    text-align: center;
+    color: tomato;
 }
