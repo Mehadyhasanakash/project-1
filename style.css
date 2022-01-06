@@ -1,3 +1,8 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
 section{
     display: flex;
 }
@@ -28,4 +33,17 @@ h1{
     color: white;
     border-radius: 5px;
     padding: 8px 25px;
+
+}
+
+
+.mission-second-part{
+    color: darkmagenta;
+}
+.My-Mission{
+    margin: 0%;
+    padding: 0%;
+    position: absolute;
+    
+    
 }
