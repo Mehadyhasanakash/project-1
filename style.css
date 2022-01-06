@@ -114,3 +114,12 @@ h1{
     text-align: center;
     color: tomato;
 }
+/* last */
+.last{
+    text-align: center;
+    padding: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: rgb(34, 2, 61);
+    color: ivory;
+    
+}
