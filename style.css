@@ -1,0 +1,31 @@
+section{
+    display: flex;
+}
+.mission2022{
+    width: 50%;
+    padding: 10%;
+
+}
+.mission2022 img{
+    width: 100%;
+    margin-top:-120px;
+}
+.color{
+    color: brown;
+}
+h1{
+    font-size: 70px;
+}
+.text-aline{
+    text-align: justify;
+}
+.box{
+    border-left: 5px solid rgb(3, 104, 96);
+}
+.link{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(8, 248, 156), rgb(47, 209, 68));
+    color: white;
+    border-radius: 5px;
+    padding: 8px 25px;
+}
