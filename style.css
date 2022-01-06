@@ -89,17 +89,16 @@ h1{
 
 
 /* 3r part */
-section{
+
+.width-hight{
     display: flex;
-    width: 50%;
+    width: 100%;
 }
-.coding{
+
+.code{
     width: 50%;
     padding: 10%;
 }
-.coding img{
-    width: 800px;
+.code img {
+    width: 100%;
 }
-
-
-
